@@ -1,3 +1,3 @@
 // Write your code in this file!
 currentUser = "Hey!";
-welcomeMessage = "Welcome to Flatbook,";
+welcomeMessage = "Welcome to Flatbook, ";
