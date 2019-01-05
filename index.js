@@ -1,2 +1,2 @@
 // Write your code in this file!
-currentUser = "Hey!", welcomeMessage = "Hey!";
+currentUser = "Hey!", welcomeMessage = "Welcome to Facebook.";
