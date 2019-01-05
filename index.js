@@ -1,3 +1,3 @@
 // Write your code in this file!
-currentUser = "Hey!";
-welcomeMessage = `Welcome to Flatbook, ${currentUser}`;
+currentUser = "John Mark";
+welcomeMessage = `Welcome to Flatbook, ${currentUser}!`;
