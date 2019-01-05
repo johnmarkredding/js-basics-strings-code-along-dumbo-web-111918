@@ -1,4 +1,4 @@
 // Write your code in this file!
 currentUser = "John Mark";
 welcomeMessage = `Welcome to Flatbook, ${currentUser}!`;
-excitedWelcomeMessage = `WELCOME TO FLATBOOK, ${currentUser.uppercase}!`;
+excitedWelcomeMessage = `WELCOME TO FLATBOOK, ${currentUser.ToUpperCase}!`;
