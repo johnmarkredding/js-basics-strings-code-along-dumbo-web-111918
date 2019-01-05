@@ -2,4 +2,4 @@
 currentUser = "John Mark";
 welcomeMessage = `Welcome to Flatbook, ${currentUser}!`;
 excitedWelcomeMessage = `WELCOME TO FLATBOOK, ${currentUser.toUpperCase()}!`;
-shortGreeting = `Welcome, ${currentUser}!`;
+shortGreeting = `Welcome, ${currentUser[0]}!`;
