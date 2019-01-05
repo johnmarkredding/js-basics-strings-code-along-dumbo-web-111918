@@ -1,2 +1,2 @@
 // Write your code in this file!
-currentUser = "Hey!";
+currentUser = "Hey!", welcomeMessage = "Hey!";
